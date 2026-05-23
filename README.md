@@ -1,6 +1,8 @@
 # Bambu Monitor
 
-A small, self-contained Python utility to monitor Bambu Lab A1 printers over MQTT, keep a merged live state and recent history, expose a simple HTTP status UI, and show desktop notifications and popups when prints start or stop.
+A small, self-contained Python utility to monitor Bambu Lab A1 printers over MQTT, keep a merged live state and recent history, expose a simple HTTP status UI, and show desktop notifications and popups when prints start or stop. This project is unofficial and not affiliated with Bambu Lab.
+
+**Notice** This project is not under active development and has not been rigorously tested. It was written for personal use; treat it as experimental and use at your own risk.
 
 ---
 
